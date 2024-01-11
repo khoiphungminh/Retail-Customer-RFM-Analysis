@@ -21,3 +21,7 @@ RFM analysis is a customer segmentation technique that evaluates customers based
 
 # Contributing
 Your contributions are welcome! Whether it's suggesting improvements, reporting issues, or adding new features, feel free to fork this repository and submit your pull requests.
+
+I hope this tool assists you in unlocking valuable insights from your customer data. For any questions or suggestions, feel free to raise an issue or contact me directly.
+
+Happy Analyzing! 📊🚀
